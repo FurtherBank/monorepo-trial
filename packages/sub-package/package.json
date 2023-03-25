@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "peerDependencies": {
+    "@ant-design/icons": "^4.0.0",
+    "antd": "^4.0.0",
+    "react": ">=16",
+    "react-dom": ">=16"
+  },
+  "dependencies": {
+
+  },
   "keywords": [],
   "author": "furtherbank",
   "license": "ISC"

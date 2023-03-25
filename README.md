@@ -31,3 +31,11 @@ Build library via `father`,
 ```bash
 $ npm run build
 ```
+
+## monorepo 参考
+[https://github.com/DavidWells/pnpm-workspaces-example](https://github.com/DavidWells/pnpm-workspaces-example)
+
+✨ https://github.com/scfido/pnpm-monorepo
+
+
+https://github.com/umijs/dumi-lerna-template
