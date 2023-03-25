@@ -5,9 +5,9 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'monorepo-trial';
+import { SubComponent } from 'sub-package';
 
-export default () => <Foo title="First Demo" />;
+export default () => <SubComponent title="First Demo" />;
 ```
 
 More skills for writing demo: https://d.umijs.org/guide/basic#write-component-demo
